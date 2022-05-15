@@ -13,7 +13,7 @@ Here we will provide you getting started guide for Visual Studio with better pro
    - Shrink Empty Lines
    - Time Stamp Margin 2022
    - Double-Click Maximize 2022
- ![Install all extensions](images\ProductivityPowerToolsSettings.png)
+ ![Install all extensions](images/ProductivityPowerToolsSettings.png)
 
  - [VSColorOutput](https://marketplace.visualstudio.com/items?itemName=MikeWard-AnnArbor.VSColorOutput)
  - [Viasfora](https://marketplace.visualstudio.com/items?itemName=TomasRestrepo.Viasfora)
@@ -22,10 +22,10 @@ Here we will provide you getting started guide for Visual Studio with better pro
 
  2. Do the following in Tools > Options
 
-![Cut Copy empty Lines](images\DisableCutCopyEmptyLine.png)
-![Mode Scroll Bars](images\MapModeScrollbars.png)
-![System Using sort](images\UsingSortSystemFirst.png)
-![this preference](images\PreferThis.png)
-![display inline parameter name hints](images\DisplayInlineParameterNameHints.png)
-![viasfora settings](images\ViasforaSettings.png)
+![Cut Copy empty Lines](images/DisableCutCopyEmptyLine.png)
+![Mode Scroll Bars](images/MapModeScrollbars.png)
+![System Using sort](images/UsingSortSystemFirst.png)
+![this preference](images/PreferThis.png)
+![display inline parameter name hints](images/DisplayInlineParameterNameHints.png)
+![viasfora settings](images/ViasforaSettings.png)
 
