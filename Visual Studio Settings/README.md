@@ -4,7 +4,28 @@ Here we will provide you getting started guide for Visual Studio with better pro
 
 ### Extensions
 
-Install extensions mentioned below
+1. Install extensions mentioned below:
 
-- Ext1
-- Ext2
+- [File Icons](https://marketplace.visualstudio.com/items?itemName=MadsKristensen.FileIcons)
+ - [Productivity Power Tools](https://marketplace.visualstudio.com/items?itemName=VisualStudioPlatformTeam.ProductivityPowerPack2022)
+   - Middle-Click Scroll 2022
+   - Solution Error Visualizer 2022
+   - Shrink Empty Lines
+   - Time Stamp Margin 2022
+   - Double-Click Maximize 2022
+ ![Install all extensions](images/ProductivityPowerToolsSettings.png)
+
+ - [VSColorOutput](https://marketplace.visualstudio.com/items?itemName=MikeWard-AnnArbor.VSColorOutput)
+ - [Viasfora](https://marketplace.visualstudio.com/items?itemName=TomasRestrepo.Viasfora)
+ - [Smooth Scroll](https://gist.github.com/pishangujeniya/af08484ba14a68daa53e5937a1f2044a)
+ - [Format document on Save](https://marketplace.visualstudio.com/items?itemName=mynkow.FormatdocumentonSave)
+
+ 2. Do the following in Tools > Options
+
+![Cut Copy empty Lines](images/DisableCutCopyEmptyLine.png)
+![Mode Scroll Bars](images/MapModeScrollbars.png)
+![System Using sort](images/UsingSortSystemFirst.png)
+![this preference](images/PreferThis.png)
+![display inline parameter name hints](images/DisplayInlineParameterNameHints.png)
+![viasfora settings](images/ViasforaSettings.png)
+
