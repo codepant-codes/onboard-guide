@@ -17,8 +17,8 @@ Here we will provide you getting started guide for Visual Studio with better pro
 
  - [VSColorOutput](https://marketplace.visualstudio.com/items?itemName=MikeWard-AnnArbor.VSColorOutput)
  - [Viasfora](https://marketplace.visualstudio.com/items?itemName=TomasRestrepo.Viasfora)
- - [Smooth Scroll](https://gist.github.com/pishangujeniya/af08484ba14a68daa53e5937a1f2044a)
- - [Format document on Save](https://marketplace.visualstudio.com/items?itemName=mynkow.FormatdocumentonSave)
+ - [SideScroller](https://marketplace.visualstudio.com/items?itemName=drewnoakes.SideScroller)
+ - [Format Document On Save](https://marketplace.visualstudio.com/items?itemName=mynkow.FormatdocumentonSave)
 
  2. Do the following in Tools > Options
 
