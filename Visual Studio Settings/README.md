@@ -4,8 +4,6 @@ Here we will provide you getting started guide for Visual Studio with better pro
 
 ### Extensions
 
-1. Install extensions mentioned below:
-
 - [File Icons](https://marketplace.visualstudio.com/items?itemName=MadsKristensen.FileIcons)
  - [Productivity Power Tools](https://marketplace.visualstudio.com/items?itemName=VisualStudioPlatformTeam.ProductivityPowerPack2022)
    - Middle-Click Scroll 2022
@@ -20,7 +18,9 @@ Here we will provide you getting started guide for Visual Studio with better pro
  - [SideScroller](https://marketplace.visualstudio.com/items?itemName=drewnoakes.SideScroller)
  - [Format Document On Save](https://marketplace.visualstudio.com/items?itemName=mynkow.FormatdocumentonSave)
 
- 2. Do the following in Tools > Options
+ ### Vistual Studio Options
+ 
+ Do the following in Tools > Options
 
 ![Cut Copy empty Lines](images/DisableCutCopyEmptyLine.png)
 ![Mode Scroll Bars](images/MapModeScrollbars.png)
