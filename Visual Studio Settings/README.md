@@ -27,5 +27,7 @@ Here we will provide you getting started guide for Visual Studio with better pro
 ![System Using sort](images/UsingSortSystemFirst.png)
 ![this preference](images/PreferThis.png)
 ![display inline parameter name hints](images/DisplayInlineParameterNameHints.png)
+![spacing](images/Spacing.png)
+![spacing_2](images/Spacing2.png)
 ![viasfora settings](images/ViasforaSettings.png)
 
